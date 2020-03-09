@@ -1,5 +1,6 @@
 # TTIC_DL
-Self-study use for TTIC deep learning class
+Self-study use for TTIC deep learning class taught by Prof.David McAllester
+https://mcallester.github.io/ttic-31230/
 
 
 
