@@ -1,4 +1,5 @@
 # TTIC_DL
+self-study use for TTIC deep learning class
 
 
 
